@@ -4,12 +4,19 @@ Nextpanel is a web hosting control panel designed for ease of use and robust fun
 
 ## Prerequisites
 
-- A Linux-based server (e.g., Ubuntu, CentOS, Debian)
+- A Linux-based Ubuntu server 20, 22, or 24
 - Sudo or root privileges
 
 ## Installation Steps
 
 1. **Download and install the Nextpanel script:**
+
+   If you are not logged in as root user enter this command to switch to root user:
+
+   ```bash
+   sudo -s
+
+2. **Download and install the Nextpanel script:**
 
    Run the following command to download the installation script and make it executable:
 
