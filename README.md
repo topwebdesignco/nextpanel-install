@@ -9,7 +9,7 @@ Nextpanel is a web hosting control panel designed for ease of use and robust fun
 
 ## Installation Steps
 
-1. **Download and install the Nextpanel script:**
+1. **Switch to root user:**
 
    If you are not logged in as root user enter this command to switch to root user:
 
