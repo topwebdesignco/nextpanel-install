@@ -1,6 +1,6 @@
 # Nextpanel Installation Guide
 
-Nextpanel is a web hosting control panel designed for ease of use and robust functionality. Below are the steps to install Nextpanel on a Linux server.
+Nextpanel is a free web hosting control panel designed for ease of use and robust functionality. Below are the steps to install Nextpanel on a Linux server.
 
 ## Prerequisites
 
